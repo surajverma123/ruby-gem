@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install devcamp_view_tool_tool_verma
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+DevcampViewToolToolVerma::Renderer.copyright "Suraj Verma", "Message"
+```
 
 ## Development
 
